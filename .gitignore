@@ -29,6 +29,11 @@ pnpm-lock.yaml
 .env
 stats.html
 
+# clacky configuration
+.1024*
+!.1024
+.breakpoints
+
 .idea
 /test-results/
 /blob-report/
